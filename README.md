@@ -43,3 +43,5 @@ Axona reads and writes plain-text notes: **Markdown** and **Podlite**. An existi
 ## License
 
 Axona is proprietary. The formats underneath it are open, and your files are always yours. A plugin API and developer docs become public when the extension surface is ready.
+
+See the [License & Terms](LICENSE.md) and the [Privacy note](PRIVACY.md).
