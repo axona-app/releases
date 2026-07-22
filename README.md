@@ -17,9 +17,9 @@
 
 Your notes outgrew the place you keep them. Folders flatten the connections. A wiki holds links but not the structure beneath them. And the parts you never wrote down still live in your head, where search can't reach.
 
-Axona is a desktop app built for that gap. It reads a folder of plain-text files, shows the **typed** graph between them (a definition, a backlink, and an index term are different kinds of edge, not one undifferentiated mesh), and lets you point an AI agent at a selection without leaving the document.
+Axona is a desktop app built for that gap. It reads a folder of plain-text files and shows the **typed** graph between them — a definition, a backlink, and an index term are different kinds of edge, not one undifferentiated mesh. That typed structure is what an AI agent will work over; agents land in the open as the app grows.
 
-If you've kept notes in folders, a wiki, or a graph-style notes app, you know the shape of the problem. Axona's bet differs in three concrete ways: the graph is typed, agents are part of the app, and your files stay plain text on your own disk. It's trying to beat keeping it all in your head.
+If you've kept notes in folders, a wiki, or a graph-style notes app, you know the shape of the problem. Axona's bet differs in three concrete ways: the graph is typed, your files stay plain text on your own disk, and agents are being built to work over that structure — not bolted on as a chat box. It's trying to beat keeping it all in your head.
 
 ## Download
 
