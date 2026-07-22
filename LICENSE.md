@@ -18,6 +18,10 @@ You may install and use the Software for free, for any purpose, on devices you o
 
 Axona is local-first: your notes are files on your own disk. The Software sends no content or usage data to us, and there is no telemetry. See our [Privacy note](PRIVACY.md) for what the app does and does not send.
 
+## Open-source components
+
+Axona includes open-source software. Their licenses and full texts are listed in the [Third-party notices](THIRD-PARTY-NOTICES.md).
+
 ## No warranty
 
 The Software is provided "as is", without warranties of any kind, to the fullest extent permitted by law.
