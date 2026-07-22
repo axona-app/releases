@@ -21,16 +21,18 @@ Axona is a desktop app built for that gap. It reads a folder of plain-text files
 
 If you've kept notes in folders, a wiki, or a graph-style notes app, you know the shape of the problem. Axona's bet differs in three concrete ways: the graph is typed, agents are part of the app, and your files stay plain text on your own disk. It's trying to beat keeping it all in your head.
 
-## Status: pre-alpha, built in public
+## Download
 
-There's nothing to download yet. This repository is the front door, not a release page.
+**Axona 0.1.0** — the first public build, for macOS (Apple Silicon and Intel). Built in the open and early, so expect rough edges.
 
-Today's build is a window, a file index, and the brand: the foundation, not the product. We're building in the open instead of vanishing for a year, so this page stays honest about where things actually are.
+- **[Download the latest release](https://github.com/axona-app/releases/releases/latest)** — grab the `.dmg`.
+- What's here today: the typed graph, a global capture overlay and a global search overlay, full-text search, and local-first indexing of a plain-text folder. Agents and more land in the open.
+
+Global shortcuts: **⌃⌥Space** search · **⌃⌥N** quick note · **⌃⌥A** show the window.
 
 - **[axona.app](https://axona.app)** — the project home.
-- **Watch → Custom → Releases** — hear about the first build.
-- **[Discussions](https://github.com/axona-app/releases/discussions)** — what you'd want from a tool like this, and what you reach for today.
-- **[Issues](https://github.com/axona-app/releases/issues)** — bugs and requests, once there's something to run.
+- **[Discussions](https://github.com/axona-app/releases/discussions)** — ideas and feedback.
+- **[Issues](https://github.com/axona-app/releases/issues)** — bugs and requests.
 
 ## Why local-first
 
