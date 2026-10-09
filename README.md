@@ -19,12 +19,12 @@ If you've kept notes in folders, a wiki, or a graph-style notes app, you know th
 
 ## Download
 
-**Axona 0.1.1**, for macOS (Apple Silicon and Intel). The first public build came out in July; this one fixes indexing. Early, so expect rough edges.
+**Axona 0.1.2**, for macOS (Apple Silicon and Intel). It adds a Recent notes window and saves your text while you type. Before it quits, Axona waits for every window to save.
 
 - **[Download the latest release](https://github.com/axona-app/releases/releases/latest)** — grab the `.dmg`.
-- What's here today: a capture overlay and a search overlay you can open from any app, full-text search, a reader with links and backlinks, and local indexing of a plain-text folder. The typed graph and agents are in development.
+- What's here today: a capture overlay, a search overlay, and a Recent notes window you can open from any app, full-text search, a reader with links and backlinks, and local indexing of a plain-text folder. The typed graph and agents are in development.
 
-Global shortcuts: **⌃⌥Space** search · **⌃⌥N** quick note · **⌃⌥A** show the window.
+Global shortcuts: **⌃⌥Space** search · **⌃⌥N** quick note · **⌃⌘R** recent notes · **⌃⌥A** show the window.
 
 - **[Discussions](https://github.com/axona-app/releases/discussions)** — ideas and feedback.
 - **[Issues](https://github.com/axona-app/releases/issues)** — bugs and requests.
