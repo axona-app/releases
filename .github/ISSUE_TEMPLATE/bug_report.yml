@@ -1,0 +1,50 @@
+name: Bug report
+description: Something in Axona does not work as expected.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Press ⌃⌥N
+        2. Type a note and press ⌘↩
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: axona-version
+    attributes:
+      label: Axona version
+      description: In Finder, select Axona.app and choose File → Get Info.
+      placeholder: "0.1.1"
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      placeholder: "macOS 26.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: mac
+    attributes:
+      label: Mac
+      options:
+        - Apple Silicon
+        - Intel
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Roughly how many notes are in the folder, Markdown or Podlite, screenshots.
