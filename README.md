@@ -9,28 +9,23 @@
   Your knowledge stops being an archive — signal moves between ideas.
 </p>
 
-<p align="center">
-  <a href="https://axona.app"><strong>axona.app</strong></a>
-</p>
-
 ---
 
 Your notes outgrew the place you keep them. Folders flatten the connections. A wiki holds links but not the structure beneath them. And the parts you never wrote down still live in your head, where search can't reach.
 
-Axona is a desktop app built for that gap. It reads a folder of plain-text files and shows the **typed** graph between them — a definition, a backlink, and an index term are different kinds of edge, not one undifferentiated mesh. That typed structure is what an AI agent will work over; agents land in the open as the app grows.
+Axona is a desktop app built for that gap. It reads a folder of plain-text notes. One shortcut captures a thought over any app; another opens search across the whole folder. Each note shows its links and backlinks. A typed graph, where a definition and an index term are their own kinds of link, is in development.
 
-If you've kept notes in folders, a wiki, or a graph-style notes app, you know the shape of the problem. Axona's bet differs in three concrete ways: the graph is typed, your files stay plain text on your own disk, and agents are being built to work over that structure — not bolted on as a chat box. It's trying to beat keeping it all in your head.
+If you've kept notes in folders, a wiki, or a graph-style notes app, you know the shape of the problem. Axona differs in three ways: capture and search work from any app, your files stay plain text on your own disk, and the links between notes are kept, not flattened into folders. It's trying to beat keeping it all in your head.
 
 ## Download
 
-**Axona 0.1.0** — the first public build, for macOS (Apple Silicon and Intel). Built in the open and early, so expect rough edges.
+**Axona 0.1.1**, for macOS (Apple Silicon and Intel). The first public build came out in July; this one fixes indexing. Early, so expect rough edges.
 
 - **[Download the latest release](https://github.com/axona-app/releases/releases/latest)** — grab the `.dmg`.
-- What's here today: the typed graph, a global capture overlay and a global search overlay, full-text search, and local-first indexing of a plain-text folder. Agents and more land in the open.
+- What's here today: a capture overlay and a search overlay you can open from any app, full-text search, a reader with links and backlinks, and local indexing of a plain-text folder. The typed graph and agents are in development.
 
 Global shortcuts: **⌃⌥Space** search · **⌃⌥N** quick note · **⌃⌥A** show the window.
 
-- **[axona.app](https://axona.app)** — the project home.
 - **[Discussions](https://github.com/axona-app/releases/discussions)** — ideas and feedback.
 - **[Issues](https://github.com/axona-app/releases/issues)** — bugs and requests.
 
